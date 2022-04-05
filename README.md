@@ -1,8 +1,8 @@
-# ENPM673 Project 2
+# Lane Detection and Curvature Calculation
 
 ## Libraries Used:
 * Numpy
-* OpenCV (cv)
+* OpenCV
 
 ## Instructions to run the code
 
