@@ -2,7 +2,7 @@
 
 ## Libraries Used:
 * Numpy
-* OpenCV (cv)
+* OpenCV
 
 ## Instructions to run the code
 
