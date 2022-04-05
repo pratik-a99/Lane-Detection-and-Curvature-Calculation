@@ -1,4 +1,4 @@
-# Lane-Detection-and-Curvature-Calculation
+# Lane Detection and Curvature Calculation
 
 ## Libraries Used:
 * Numpy
